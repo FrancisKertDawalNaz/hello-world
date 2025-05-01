@@ -13,3 +13,5 @@ Backend & Databases: Node.js, Firebase, MongoDB, MySQL
 Tools & Platforms: Git, GitHub, VS Code, Figma
 
 💡 I enjoy solving real-world problems through code and constantly learning new technologies to expand my toolkit. Whether it's a dynamic website, a cross-platform mobile app, or a full-stack project, I'm always up for the challenge.
+
+HAHAHAHA
